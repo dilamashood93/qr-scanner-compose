@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NfmExample" parent="Theme.Material3.DayNight">
+        <!-- no Material2 attrs here -->
+    </style>
+</resources>
